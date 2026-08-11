@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sousaservulo.github.io/sitemap.xml

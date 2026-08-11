@@ -1,0 +1,21 @@
+{
+  "name": "Sérvulo Sousa | Desenvolvedor de Software",
+  "short_name": "Sérvulo Sousa",
+  "description": "Portfólio profissional de Sérvulo Sousa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090f1d",
+  "theme_color": "#090f1d",
+  "icons": [
+    {
+      "src": "/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
