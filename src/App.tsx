@@ -30,9 +30,9 @@ function App() {
       <main id="conteudo">
         <Hero />
         <About />
-        <Skills />
         <Projects />
         <Experience />
+        <Skills />
         <Contact />
       </main>
 

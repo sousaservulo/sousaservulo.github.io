@@ -4,7 +4,7 @@ function About() {
       <div className="container section-heading-grid">
         <div>
           <p className="eyebrow">Sobre mim</p>
-          <h2 id="about-title">Uma trajetória construída entre suporte, desenvolvimento e produtos reais.</h2>
+          <h2 id="about-title">Uma trajetória construída entre suporte e  desenvolvimento.</h2>
         </div>
 
         <div className="about-copy">
