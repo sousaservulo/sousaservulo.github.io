@@ -13,6 +13,7 @@ const navigation = [
   { label: 'Projetos', href: '#projetos' },
   { label: 'Experiência', href: '#experiencia' },
   { label: 'Tecnologias', href: '#tecnologias' },
+  { label: 'Certificações', href: '#certificacoes' },
   { label: 'Contato', href: '#contato' },
 ]
 

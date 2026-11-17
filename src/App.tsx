@@ -7,6 +7,7 @@ import Contact from './sections/Contact'
 import Hero from './sections/Hero'
 import Projects from './sections/Projects'
 import Skills from './sections/Skills'
+import Certifications from './sections/Certifications'
 import { applyTheme, getInitialTheme, type Theme } from './utils/theme'
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
         <Projects />
         <Experience />
         <Skills />
+        <Certifications />
         <Contact />
       </main>
 

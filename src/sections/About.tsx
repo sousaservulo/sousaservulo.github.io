@@ -18,8 +18,8 @@ function About() {
             problemas e suporte a sistemas.
           </p>
           <p>
-            Posteriormente, fiz a transição para o desenvolvimento de software, acumulando cerca de
-            4 anos de experiência profissional, principalmente com C# e .NET, além de SQL, APIs,
+            Posteriormente, fiz a transição para o desenvolvimento de software, acumulando 
+            5 anos de experiência profissional, principalmente com C# e .NET, além de SQL, APIs,
             manutenção de sistemas, correção de bugs e implementação de novas funcionalidades.
           </p>
           <p>
