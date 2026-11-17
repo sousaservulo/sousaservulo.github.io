@@ -7,8 +7,8 @@ function Certifications() {
       <div className="container">
         <div className="section-intro">
           <p className="eyebrow">Certificações</p>
-          <h2 id="certifications-title">Aprendizado contínuo, com credenciais verificáveis.</h2>
-          <p>Certificações e formações complementares que reforçam minha atuação em desenvolvimento, cloud, gestão de serviços e IA responsável.</p>
+          <h2 id="certifications-title">Certificações e qualificações</h2>
+          <p>Credenciais em inteligência artificial, computação em nuvem e gestão de serviços de TI. Cada certificação possui um link de verificação.</p>
         </div>
         <div className="certifications-grid">
           {certifications.map((certification) => (

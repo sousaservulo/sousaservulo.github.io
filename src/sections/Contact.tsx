@@ -6,10 +6,10 @@ function Contact() {
       <div className="container contact-layout">
         <div className="section-intro contact-intro">
           <p className="eyebrow">Contato</p>
-          <h2 id="contact-title">Vamos conversar sobre desenvolvimento de software.</h2>
+          <h2 id="contact-title">Entre em contato</h2>
           <p>
-            Para oportunidades profissionais, projetos ou troca de ideias sobre tecnologia,
-            você pode entrar em contato por e-mail ou acessar meus perfis profissionais.
+            Para oportunidades profissionais e projetos, entre em contato por e-mail
+            ou acesse meus perfis profissionais.
           </p>
         </div>
 
@@ -53,8 +53,7 @@ function Contact() {
           </div>
 
           <p className="contact-card__note">
-            O currículo em PDF pode ser baixado diretamente pelo site. Telefone e outros dados
-            pessoais não são publicados nesta página.
+            O currículo em PDF pode ser baixado diretamente pelo site.
           </p>
         </div>
       </div>

@@ -6,10 +6,10 @@ function Experience() {
       <div className="container experience-layout">
         <div className="section-intro section-intro--sticky">
           <p className="eyebrow">Experiência</p>
-          <h2 id="experience-title">Uma trajetória construída dentro de TI.</h2>
+          <h2 id="experience-title">Experiência profissional</h2>
           <p>
-            Um resumo para contextualizar minha experiência. O histórico completo ficará
-            disponível pelo currículo e LinkedIn.
+            Atuação em desenvolvimento de sistemas, integrações e suporte técnico,
+            incluindo sustentação, modernização de aplicações e resolução de incidentes.
           </p>
         </div>
 

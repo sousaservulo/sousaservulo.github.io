@@ -25,6 +25,7 @@ export const certifications: Certification[] = [
     category: 'Cloud Computing',
     year: '2026',
     description: 'Fundamentos de infraestrutura e serviços de nuvem da Oracle.',
+    url: 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=5B5F0ECD0806642A555F9861747AB383BC51E06841C89416907D078CA3E199AD',
   },
   {
     id: 'itsm-support',
@@ -33,5 +34,6 @@ export const certifications: Certification[] = [
     category: 'Gestão de Serviços de TI',
     year: '2026',
     description: 'Conceitos e boas práticas de gestão de serviços e suporte de TI.',
+    url: 'https://www.icompent.com/verify/CERT-2026-00256',
   },
 ]

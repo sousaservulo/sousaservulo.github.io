@@ -21,6 +21,10 @@ function Hero() {
               Ver projetos
               <span aria-hidden="true">↓</span>
             </a>
+            <a className="button button--secondary" href="#certificacoes">
+              Certificações
+              <span aria-hidden="true">↓</span>
+            </a>
             <a
               className="button button--secondary"
               href={profile.github.href}
@@ -50,15 +54,15 @@ function Hero() {
           </div>
 
           <p className="hero__note">
-            Este portfólio também é um projeto: a estrutura, interface e publicação fazem
-            parte da demonstração técnica.
+            Além da experiência profissional, mantenho projetos próprios em produção,
+            com desenvolvimento e manutenção de aplicações web e serviços.
           </p>
         </div>
 
         <aside className="hero-card" aria-label="Resumo técnico do portfólio">
           <div className="hero-card__topline">
             <span className="status-dot" aria-hidden="true" />
-            <span>Portfólio em evolução</span>
+            <span>Projetos em produção</span>
           </div>
           <div className="hero-card__code" aria-hidden="true">
             <span className="code-line-number">01</span>

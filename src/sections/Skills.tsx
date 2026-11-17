@@ -6,10 +6,10 @@ function Skills() {
       <div className="container">
         <div className="section-intro">
           <p className="eyebrow">Tecnologias</p>
-          <h2 id="skills-title">Stack organizada pelo papel de cada tecnologia.</h2>
+          <h2 id="skills-title">Tecnologias e ferramentas</h2>
           <p>
-            Ferramentas e tecnologias com as quais tenho experiência profissional ou prática em
-            projetos, agrupadas para facilitar a leitura.
+            Tecnologias que utilizo em experiências profissionais e projetos próprios,
+            agrupadas por área de atuação.
           </p>
         </div>
 

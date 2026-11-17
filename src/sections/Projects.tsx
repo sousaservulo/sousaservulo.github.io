@@ -13,11 +13,11 @@ function Projects() {
         <div className="section-intro section-intro--projects">
           <div>
             <p className="eyebrow">Projetos</p>
-            <h2 id="projects-title">Produtos reais e projetos que mostram a evolução do meu trabalho.</h2>
+            <h2 id="projects-title">Projetos desenvolvidos</h2>
           </div>
           <p>
-            Cada projeto está descrito de acordo com o que já foi efetivamente desenvolvido ou
-            planejado. Informações ainda não confirmadas permanecem sinalizadas como pendentes.
+            Aplicações e produtos que desenvolvo ou mantenho, com tecnologias,
+            funcionalidades e decisões técnicas de cada projeto.
           </p>
         </div>
 
